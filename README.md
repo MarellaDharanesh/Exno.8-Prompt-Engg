@@ -1,6 +1,6 @@
 ## Exno.8-Prompt-Engg
-## Date:
-## Register no. 21222240062
+
+## Register no. 212222240062
 ## Aim
 To perform a structured exploration of prompting techniques that enable generation and manipulation of audio content (e.g., music, sound effects, or voice narration) through AI models. The focus is on creativity, control, and functional alignment with user intent.
 
