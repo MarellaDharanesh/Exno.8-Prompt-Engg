@@ -77,6 +77,10 @@ By experimenting with different prompting techniques and AI models, you can unlo
 
 ![image](https://github.com/user-attachments/assets/2023cf67-3e3a-43b2-94ec-06c0b42f72b3)
 
+### LINK 
+https://drive.google.com/file/d/1CB2WaNMPlXsCxdOg1pLJ7611WcfAV1-6/view?usp=sharing
+
+https://drive.google.com/file/d/1IVyoQm--_Xb33SwFULLlGosjXnM6qMwO/view?usp=sharing
 
 ##### Result:
 
